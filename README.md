@@ -14,13 +14,13 @@ This project features a comprehensive Power BI dashboard that provides critical 
 | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/sudha-logo.png" width="80"/> | **Sudha** | A prominent cooperative brand in the Bihar and Jharkhand region. |
 | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/raj-dairy-logo.png" width="100"/> | **Raaj Milk** | A growing brand offering fresh milk and a variety of dairy products.|
 
-<h1>📊 Key Performance Indicators (KPIs)</h1>
+<h1>📊 Key Performance Indicators (KPIs) & Products</h1>
 
-| **📐 Metric**                  | **🔣 Value**            | **Primary Dairy Products**                             |     
-|--------------------------------|--------------------------|--------------------------------------------------------|      
-|💰Total Revenue                 | ₹58.73 Million           | <img src="" width="100"/> | <img src="" width="100"/>  |     
-|🌾 Total Land Area              | 2.18 Million Acres       | <img src="" width="100"/> | <img src="" width="100"/>  |    
-|🥛Daily Milk Production         | 2.17 Million Liters/Kg   | <img src="" width="100"/> | <img src="" width="100"/>  |  
-|🐄 Number of Cows               | 238 Thousand             | <img src="" width="100"/> | <img src="" width="100"/>  | 
+| **📐 Metric**                  | **🔣 Value**            | **Primary Dairy Products**                             |                      |  
+|--------------------------------|--------------------------|--------------------------------------------------------|----------------------|      
+|💰Total Revenue                 | ₹58.73 Million           | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/butter%20milk.jpg" width="100"/> |                                                                        <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/butter.jpeg" width="100"/> |     
+|🌾 Total Land Area              | 2.18 Million Acres       | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/curd.jpg" width="100"/> |                                                                                 <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/cheese.jpg" width="100"/>  |             
+|🥛Daily Milk Production         | 2.17 Million Liters/Kg   | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/ghee.jpg" width="100"/> |                                                                                 <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/yoghurt.jpg" width="100"/>  |  
+|🐄 Number of Cows               | 238 Thousand             | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/milk.jpg" width="100"/> |                                                                                <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/ice-cream.jpg" width="100"/>  | 
                                                               
 ![dashborad](https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/power_bi1.jpg)
